@@ -1,7 +1,8 @@
-Create Agents to Research and Write an Article
+# Create Agents to Research and Write an Article
+
 This project explores the foundational concepts of multi-agent systems, providing hands-on experience with the crewAI framework. Through this repository, users will learn to create and utilize multiple agents to perform research and collaboratively write articles.
 
-Overview
+## Overview
 This repository is part of a structured course aimed at introducing multi-agent systems, specifically leveraging the capabilities of crewAI for efficient research and article writing. The primary objectives include understanding agent-based architecture, deploying multiple agents, and utilizing these agents to automate research workflows.
 
     Features
